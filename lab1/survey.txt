@@ -1,0 +1,24 @@
+1. Create a file, survey.txt, with these contents:
+  
+   Your full name: Jingjing Zhu
+
+   Any preferred nickname: Carol
+
+   Your Canvas section: 6:00-7:30 PM
+
+   Your physical location (eg SF Bay Area): Vancouver, BC
+	
+   Three things you value (eg financial success? helping others? etc): Health, happiness and prosperity
+
+   One life goal that Align program may help achieve: Get to know how to coding
+
+   Your computer make and model: Asus, P7
+
+   Your computer OS incuding version: Windows 10
+
+   How much RAM: 32GB
+
+   How much disk space (used and available) : 82GB
+
+2. Create a folder structure, NOT on your desktop:
+   D:\Northeastern CS Align\2021 Summer\CS 5004\Labs\Lab1
